@@ -1,4 +1,3 @@
-🚀 Dawood | Software Engineer | Backend Architect | AI & ML Enthusiast
 👋 Hey there! I'm Dawood, a Senior Backend Engineer and Data Science Expert with 7+ years of experience in architecting scalable, high-performance applications. I specialize in backend development, microservices, DevOps, and AI-driven solutions. Currently, I'm working at one of the world's leading AI companies as a Model Trainer, fine-tuning cutting-edge AI models while exploring Generative AI (GenAI) and Artificial General Intelligence (AGI) in my own projects.
 
 💡 What I Do:
