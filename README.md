@@ -1,4 +1,4 @@
-# 🚀 **Dawood | Software Engineer | Backend Architect | AI & ML Enthusiast**  
+# 🚀 **Dawood Siddiq | Software Engineer | Backend Architect | AI & ML Enthusiast**  
 
 👋 **Hey there!** I'm Dawood, a **Senior Backend Engineer, AI Enthusiast, and Data Science Expert** with **7+ years** of experience in building high-performance, scalable applications. My expertise spans **backend development, microservices, DevOps, AI & ML**, and **system design for real-world, large-scale applications**.  
 
